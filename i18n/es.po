@@ -1,0 +1,43 @@
+#: init/nodejs-service.js
+msgid "Run Node.js Code"
+msgstr "Ejecutar código de Node.js"
+
+#: init/nodejs-service.js
+msgid "Node.js execute"
+msgstr "Ejecución de Node.js"
+
+#: init/nodejs-service.js
+msgid "Node.js ship file"
+msgstr "Envío de archivo Node.js"
+
+#: init/nodejs-service.js
+msgid "Executing Node.js code"
+msgstr "Ejecutando código de Node.js"
+
+#: init/nodejs-service.js
+msgid "Node.js remove file"
+msgstr "Borrado de archivo Node.js"
+
+#: init/nodejs-service.js
+msgid "Node.js code executed: "
+msgstr "Código de Node.js ejecutado: "
+
+#: public/form/nodejs-form.js
+msgid "Server"
+msgstr "Servidor"
+
+#: public/form/nodejs-form.js
+msgid "Node.js path"
+msgstr "Ruta de Node.js"
+
+#: public/form/nodejs-form.js
+msgid "Node.js parameters"
+msgstr "Parámetros de Node.js"
+
+#: public/form/nodejs-form.js
+msgid "Code Editor"
+msgstr "Editor de código"
+
+#: public/form/nodejs-form.js
+msgid "Remote temp path"
+msgstr "Ruta remota temporal"
