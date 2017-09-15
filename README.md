@@ -52,12 +52,8 @@ The plugin will return all the console output you set in the Node.js code.
 
 Configuration example:
 
-      Server: groovy_server
-      Node.js path: /sytem/groovy.sh
-      Node.js parameters: -d
+      Server: nodejs_server
+      Node.js path: /sytem/node.sh
+      Node.js parameters: 
       Remote temporal path: /tmp
-      Node.js code editor: println "Hello World"
-				def x = 42
-				println x.getClass()
-				x = "Hello World"
-				println x.getClass()
+      Node.js code editor: console.log('This is a nodejs example'); 
