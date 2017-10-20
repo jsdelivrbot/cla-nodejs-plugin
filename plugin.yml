@@ -1,0 +1,9 @@
+name: Clarive NodeJS Plugin
+description: The Node.js plugin will allow you to execute Node.js code in Clarive and view its result.
+version: 1.0
+icon: https://github.com/clarive/cla-nodejs-plugin/public/icon/nodejs.svg
+url: https://github.com/clarive/cla-nodejs-plugin
+requires:
+  - clarive_version: 6.8 <= version
+dependencies:
+  - cla-nodejs-plugin
