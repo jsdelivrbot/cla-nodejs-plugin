@@ -1,4 +1,4 @@
-name: Clarive NodeJS Plugin
+name: NodeJS Plugin
 description: The Node.js plugin will allow you to execute Node.js code in Clarive and view its result.
 version: 1.0
 icon: https://cdn.rawgit.com/clarive/cla-nodejs-plugin/master/public/icon/nodejs.svg?sanitize=true
