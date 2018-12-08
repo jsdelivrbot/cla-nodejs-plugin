@@ -1,6 +1,6 @@
 # Node.js Plugin
 
-<img src="https://cdn.rawgit.com/clarive/cla-nodejs-plugin/master/public/icon/nodejs.svg?sanitize=true" alt="NodeJS Plugin" title="NodeJS Plugin" width="120" height="120">
+<img src="https://cdn.jsdelivr.net/gh/clarive/cla-nodejs-plugin/public/icon/nodejs.svg?sanitize=true" alt="NodeJS Plugin" title="NodeJS Plugin" width="120" height="120">
 
 The Node.js plugin will allow you to execute Node.js code in Clarive and view its result.
 
